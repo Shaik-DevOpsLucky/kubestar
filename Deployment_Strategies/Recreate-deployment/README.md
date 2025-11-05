@@ -9,7 +9,7 @@
 - <b>Pod Creation:</b> It creates new pods with updated configurations.
 
 | Pro's    | Con's |
-| -------- | ------- |
+| -------- | ------- |.
 | Application state entirely renewed | Downtime that depends on the both shutdown and boot duration of the application     |
 
 > [!Note]
