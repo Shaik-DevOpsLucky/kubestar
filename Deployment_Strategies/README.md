@@ -17,6 +17,6 @@
 | Types    | Links |
 | -------- | ------- |
 | Recreate | <a href="https://github.com/Shaik-DevOpsLucky/kubestar/tree/main/Deployment_Strategies/Recreate-deployment">Click me</a>     |
-| Rolling Update | <a href="https://github.com/Shaik-DevOpsLucky/kubestarter/tree/main/Deployment_Strategies/Rolling-Update-Deployment">Click me</a>     |
-| Blue-green | <a href="https://github.com/Shaik-DevOpsLucky/kubestarter/tree/main/Deployment_Strategies/Blue-green-deployment">Click me</a>     |
-| Canary | <a href="https://github.com/Shaik-DevOpsLucky/kubestarter/tree/main/Deployment_Strategies/Simple-Canary-Example">Click me</a>     |
+| Rolling Update | <a href="https://github.com/Shaik-DevOpsLucky/kubestar/tree/main/Deployment_Strategies/Rolling-Update-Deployment">Click me</a>     |
+| Blue-green | <a href="https://github.com/Shaik-DevOpsLucky/kubestar/tree/main/Deployment_Strategies/Blue-green-deployment">Click me</a>     |
+| Canary | <a href="https://github.com/Shaik-DevOpsLucky/kubestar/tree/main/Deployment_Strategies/Canary-deployment">Click me</a>     |
