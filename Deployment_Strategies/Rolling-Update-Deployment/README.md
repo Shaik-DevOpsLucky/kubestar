@@ -10,7 +10,7 @@
 - <b>Pod Termination:</b> It terminates existing pods.
 
 | Pro's    | Con's |
-| -------- | ------- |
+| -------- | ------- |.
 | Version is slowly released across instances | Rollout/Rollback can take time    |
 | Convenient for stateful applications | No control over traffic |
 
